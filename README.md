@@ -1,1 +1,3 @@
-# Cool stuff bro
+# Bible Study Tool
+
+In creating this Bible Study tool I'm trying to provide a way for people to study the Bible and analyze it logically. I want people to be able to read Scripture, and have the freedom to come to their own conclusions, while under the instruction of the computer to notify them of inconsistencies in their thoughts. The theory is that if one is forced to analyze the Bible consistently, given a few basic presuppositions (i.e. the infallibility of Scripture etc.) they will arrive at the correct interpretation, or at least a better interpretation than they may have arrived upon while allowing for inconsistencies in their interpretation.

@@ -1,0 +1,93 @@
+#main_menu_bar {
+    width: 100%;
+    height: 75px;
+    /* border-bottom: 1px solid grey; */
+}
+
+h2.main_logo_title {
+    margin: 0px;
+    line-height: 75px;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 10px;
+    font-weight: 400;
+}
+
+#menu_title {
+    text-align: center;
+    height: 100%;
+}
+
+#main_search_bar_container {
+    padding: 0px 0px 20px 0px;
+    height: 65px;
+}
+
+#main_search_bar_input {
+    padding: 10px 1%;
+    width: 50%;
+    font-size: 15px;
+    height: 100%;
+}
+
+select {}
+
+select.search_section_select {
+    height: 43px;
+    border-radius: 0px;
+    border: 1px solid gainsboro;
+    border: none;
+    background: aqua;
+    background-size: cover;
+    background-clip: border-box;
+}
+
+.middle_line {
+    height: 50%;
+    width: 25%;
+    border-bottom: 1px solid gainsboro;
+}
+
+.middle_line.middle_line_right {
+    float: right;
+}
+
+.middle_line.middle_line_left {
+    float: left;
+}
+
+#scripture_title {
+    padding: 40px 0px;
+}
+
+h1.scripture_title {
+    margin: 0px;
+}
+
+span.verse_number {font-weight: 200;}
+
+.bk_grey {
+    background-color: rgba(128, 128, 128, 0.1);
+}
+
+.bk_blue {
+    background-color: rgba(97, 138, 189, 0.1);
+}
+
+.bk_green {
+    background-color: rgba(97, 189, 100, 0.1);
+}
+
+.bk_yellow {
+    background-color: rgba(189, 178, 97, 0.1);
+}
+
+.bk_red {
+    background-color: rgba(189, 97, 97, 0.1);
+}
+
+.object {
+    padding: 20px;
+    border: 1px solid gainsboro;
+    box-shadow: -5px 5px 5px #b9b3b3;
+}
